@@ -59,7 +59,7 @@ Rent: ...
 Buy: ...
 ```
 
-![CLI Output Example](1.png)
+![CLI Output Example](assets/1.png)
 
 ## Notes
 
